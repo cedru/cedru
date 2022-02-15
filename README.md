@@ -1,4 +1,8 @@
-### Hi there 👋
+### Heya! 👋
+I'm a web design student!
+If you ever want to collaborate, message me on discord!
+
+cedru#2842
 
 <!--
 **cedru/cedru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
