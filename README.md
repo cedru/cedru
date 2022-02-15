@@ -1,6 +1,6 @@
 ### Heya! 👋
-I'm a web design student!
-If you ever want to collaborate, message me on discord!
+## I'm a web design student!
+## If you ever want to collaborate, message me on discord!
 
 cedru#2842
 
