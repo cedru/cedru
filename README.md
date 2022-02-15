@@ -8,8 +8,7 @@ I'm a web design student and a self-taught graphics designer looking to expand i
 - 📫 DM ME! - cedru#2842
 
 <p align="center">
-  <i>A good code is like a story, not a puzzle.</i><br/>
-<img src="https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25"/>
+  <i>Norman visatigi ringist välja. Mis nüüd saab?</i><br/>
 </p>
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
