@@ -23,7 +23,7 @@ cedru#2842
   </p>
 
 <p align="center">
-  <i>Norman visatigi ringist välja. Mis nüüd saab?</i><br/>
+  <b><i>Norman visatigi ringist välja. Mis nüüd saab?</i><br/></b>
 </p>
 
 ![bottom.png](https://imgur.com/Oi9whDs.png)
