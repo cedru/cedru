@@ -14,4 +14,4 @@ I'm a web design student and a self-taught graphics designer looking to expand i
   <i>Norman visatigi ringist välja. Mis nüüd saab?</i><br/>
 </p>
 
-![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
+![bottom.png](https://imgur.com/Oi9whDs.png)
