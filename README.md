@@ -10,6 +10,13 @@ I'm a web design student and a self-taught graphics designer looking to expand i
 cedru#2842
 </p>
 
+-
+
+-
+
+-
+
+-
 
 <p align="center">
   <i>Norman visatigi ringist välja. Mis nüüd saab?</i><br/>
