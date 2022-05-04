@@ -9,21 +9,5 @@ I'm a web design student and a self-taught graphics designer looking to expand i
 <p align="center">
 <b>cedru#0888</b>
 </p>
-<p align="center">
--
-  </p>
-<p align="center">
--
-  </p>
-<p align="center">
--
-  </p>
-<p align="center">
--
-  </p>
-
-<p align="center">
-  <b><i>Norman visatigi ringist välja. Mis nüüd saab?</i><br/></b>
-</p>
 
 ![bottom.png](https://imgur.com/Oi9whDs.png)
