@@ -7,7 +7,7 @@
 I'm a web design student and a self-taught graphics designer looking to expand in many different and new areas! If you wish to collaborate then contact me on discord!
 </p>
 <p align="center">
-<b>cedru#7236</b>
+<b>discord - cedru</b>
 </p>
 
 ![bottom.png](https://imgur.com/Oi9whDs.png)
